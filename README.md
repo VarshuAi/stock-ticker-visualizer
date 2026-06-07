@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Real-time stock ledger plotting interactive shares trends.
+  name: stock-ticker-visualizer version: 1.0 type: Repository author: VarshuAi description: >   Real-time stock ledger plotting interactive shares trends. primary_tech: CSS
 primary_tech: CSS
 ```
 
